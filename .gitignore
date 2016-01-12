@@ -1,0 +1,12 @@
+#Ignore all
+*
+
+
+#Except
+!.gitignore
+!autoexec.cfg
+!botdm.cfg
+!auto_aliases.cfg
+!auto_settings.cfg
+!auto_buys.cfg
+!auto_binds.cfg
